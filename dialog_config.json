@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "show_after": "2025-02-20",
+  "show_after": "2025-03-20",
   "force_update": false,
-  "title": "Update Available",
-  "message": "RoMioMods 🇵🇸 Join For New Updates↺",
+  "title": "<div style= text-align:center; >Update Available</div>",
+  "message": "<div style= text-align:center; >RoMioMods 🇵🇸 Join For New Updates↺</div>",
   "link_text": "",
   "link_url": "https://t.me/RoMio_MoD",
   "buttons": [
