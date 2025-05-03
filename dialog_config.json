@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "show_after": "2025-03-20",
+  "force_update": false,
+  "title": "Update Available",
+  "message": "RoMioMods 🇵🇸 Join For New Updates↺",
+  "link_text": "",
+  "link_url": "https://t.me/RoMio_MoD",
+  "buttons": [
+    {
+      "text": "Update Now",
+      "action": "url",
+      "target": "https://t.me/RoMio_MoD",
+      "style": "primary"
+    },
+    {
+      "text": "Later",
+      "action": "dismiss",
+      "style": "secondary"
+    }
+  ]
+}
